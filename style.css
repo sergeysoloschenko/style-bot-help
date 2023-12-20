@@ -46,7 +46,7 @@ footer {
 /* Responsive Design */
 @media (max-width: 768px) {
     body {
-        font-size: 16px;
+        font-size: 22px;
     }
 
     h1, h2, h3 {
@@ -59,13 +59,13 @@ footer {
     }
 
     footer {
-        font-size: 18px;
+        font-size: 22px;
     }
 }
 
 @media (max-width: 480px) {
     body {
-        font-size: 18px;
+        font-size: 22px;
     }
 
     header, footer {
@@ -73,11 +73,11 @@ footer {
     }
 
     h1 {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     h2, h3 {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     section, article {
